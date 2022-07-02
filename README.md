@@ -1,2 +1,4 @@
-# alx-higher_level_programming
-High-level programming exhibits features like more generic data structures and operations, run-time interpretation, and intermediate code files; which often result in execution of far more operations than necessary, higher memory consumption, and larger binary program size.
+Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.
+
+Name: Helen Tsegay
+Email: hellentsegaye2@gmail.com
