@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Input/Output
 Project done during **Alx Full Stack Software Engineering studies** 
 
@@ -45,9 +44,3 @@ Project done during **Alx Full Stack Software Engineering studies**
 
 | `101-stats.py` | Function that reads `stdin` line by line and computes metrics |
 
-=======
-# 0x0B. Python - Input/Output
-An introductory project into I/O in Python3
-## File Descriptions
-## Helen Tsegay
->>>>>>> 376e0a1d85351bdf928d779be7052d31509f5313
